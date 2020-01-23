@@ -1,12 +1,16 @@
 import React from "react";
-import MyComponent from "./MyComponent";
+// import MyComponent from "./MyComponent";
+// import Counter from "./Counter";
+import Say from "./Say";
 import "./App.css";
 
 const App = () => {
   return (
-    <MyComponent name="React" favoriteNumber={5}>
-      리액트
-    </MyComponent>
+    // <MyComponent name="React" favoriteNumber={5}>
+    //   리액트
+    // </MyComponent>
+    // <Counter />
+    <Say />
   );
 };
 
