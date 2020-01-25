@@ -1,7 +1,8 @@
 import React from "react";
 // import MyComponent from "./MyComponent";
 // import Counter from "./Counter";
-import Say from "./Say";
+// import Say from "./Say";
+import EventPractice from "./EventPractice";
 import "./App.css";
 
 const App = () => {
@@ -10,7 +11,8 @@ const App = () => {
     //   리액트
     // </MyComponent>
     // <Counter />
-    <Say />
+    // <Say />
+    <EventPractice />
   );
 };
 
