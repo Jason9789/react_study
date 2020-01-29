@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import "./App.css";
 
 // import Counter from "./Counter";
-import Info from "./Info";
+// import Info from "./Info";
+import Average from "./Average";
 
 function App() {
   // ========== useEffect 사용 ===============
@@ -21,7 +22,8 @@ function App() {
   //   </div>
   // );
   // return <Counter />;
-  return <Info />;
+  // return <Info />;
+  return <Average />;
 }
 
 export default App;
