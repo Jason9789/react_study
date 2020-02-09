@@ -23,7 +23,7 @@ export const toggle = id => ({
   id,
 });
 
-export const remove = id({
+export const remove = id => ({
   type: REMOVE,
   id,
 });
