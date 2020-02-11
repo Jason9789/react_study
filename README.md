@@ -21,3 +21,5 @@
   - immer
   - SPA with React Router
   - News Viewer with news API
+  - Context API
+  - Redux
